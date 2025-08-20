@@ -6,6 +6,7 @@ use Watermoss\Network\RakNet;
 use Watermoss\Network\RakNetLayer;
 use Watermoss\Protocol\BedrockPackets;
 use Watermoss\Util\Logger;
+use Watermoss\Util\Utils;
 use Watermoss\World\FlatWorld;
 
 class Server {
